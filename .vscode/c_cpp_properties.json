@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/ali/Arduino/arduino-1.8.13/**",
+                "/home/ali/Arduino/arduino-1.8.13/tools/**",
+                "/home/ali/Arduino/arduino-1.8.13/libraries/**",
+                "/home/ali/Arduino/arduino-1.8.13/hardware/arduino/avr/**",
+                "/home/ali/Arduino/arduino-1.8.13/hardware/arduino/avr/cores/arduino",
+                "/home/ali/Arduino/sketch/libraries/**"
+            ],
+            "forcedInclude": [
+                "/home/ali/Arduino/arduino-1.8.13/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
